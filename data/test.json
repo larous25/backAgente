@@ -1,0 +1,321 @@
+{
+  "titulo" : "Choose the correct answer for each question",
+  "nivel": "test",
+  "tipo": "multiple",
+  "preguntas" : [
+    {
+      "pregunta": "Where is the book? _____ is on the table.",
+      "valor": 10,
+      "respuestas": [
+        {
+          "respuesta": "He",
+          "estado": false
+        },
+        {
+          "respuesta": "It",
+          "estado": false
+        },
+        {
+          "respuesta": "She",
+          "estado": false
+        },
+        {
+          "respuesta": "The",
+          "estado": true
+        }
+      ]
+    },
+    {
+      "pregunta": "I want _____ apple and two oranges.",
+      "valor": 10,
+      "respuestas": [
+        {
+          "respuesta": "an",
+          "estado": true
+        },
+        {
+          "respuesta": "the",
+          "estado": false
+        },
+        {
+          "respuesta": "a",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "pregunta": "I live in an apartment. _____ apartment is big.",
+      "valor": 10,
+      "respuestas": [
+        {
+          "respuesta": "An",
+          "estado": false
+        },
+        {
+          "respuesta": "A",
+          "estado": false
+        },
+        {
+          "respuesta": "The",
+          "estado": true
+        }
+      ]
+    },
+    {
+      "pregunta": "The cat is _____ the box.",
+      "valor": 20,
+      "respuestas": [
+        {
+          "respuesta": "at",
+          "estado": false
+        },
+        {
+          "respuesta": "in",
+          "estado": true
+        },
+        {
+          "respuesta": "to",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "pregunta": "He runs _____ Mondays and Fridays.",
+      "valor": 20,
+      "respuestas": [
+        {
+          "respuesta": "at",
+          "estado": false
+        },
+        {
+          "respuesta": "in",
+          "estado": false
+        },
+        {
+          "respuesta": "on",
+          "estado": true
+        },
+        {
+          "respuesta": "to",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "pregunta": "There _____ three glasses of water.",
+      "valor": 20,
+      "respuestas": [
+        {
+          "respuesta": "is",
+          "estado": false
+        },
+        {
+          "respuesta": "are",
+          "estado": true
+        },
+        {
+          "respuesta": "am",
+          "estado": false
+        },
+        {
+          "respuesta": "its",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "pregunta": "_____ she like ice cream?",
+      "valor": 30,
+      "respuestas": [
+        {
+          "respuesta": "Do",
+          "estado": false
+        },
+        {
+          "respuesta": "Do not",
+          "estado": false
+        },
+        {
+          "respuesta": "Does",
+          "estado": true
+        }
+      ]
+    },
+    {
+      "pregunta": "He never _____ vegetables.",
+      "valor": 30,
+      "respuestas": [
+        {
+          "respuesta": "eats",
+          "estado": true
+        },
+        {
+          "respuesta": "eat",
+          "estado": false
+        },
+        {
+          "respuesta": "is eating",
+          "estado": false
+        },
+        {
+          "respuesta": "are eating",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "pregunta": "What are you doing now? _____.",
+      "valor": 30,
+      "respuestas": [
+        {
+          "respuesta": "I study",
+          "estado": false
+        },
+        {
+          "respuesta": "I be studying",
+          "estado": false
+        },
+        {
+          "respuesta": "I am study",
+          "estado": false
+        },
+        {
+          "respuesta": "I'm studying",
+          "estado": true
+        }
+      ]
+    },
+    {
+      "pregunta": "Choose the correct answer:",
+      "valor": 40,
+      "respuestas": [
+        {
+          "respuesta": "You perfectly speak English.",
+          "estado": false
+        },
+        {
+          "respuesta": "You speak English perfectly.",
+          "estado": true
+        },
+        {
+          "respuesta": "Perfectly you speak English.",
+          "estado": false
+        },
+        {
+          "respuesta": "You speak perfectly English.",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "pregunta": "Which of the following is correct?",
+      "valor": 40,
+      "respuestas": [
+        {
+          "respuesta": "Where she work?",
+          "estado": false
+        },
+        {
+          "respuesta": "Where work she?",
+          "estado": false
+        },
+        {
+          "respuesta": "Where does she work?",
+          "estado": true
+        },
+        {
+          "respuesta": "Where do she work?",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "pregunta": "He _____ for an hour in the morning, _____ all afternoon and didn't return home until 10 at night.",
+      "valor": 40,
+      "respuestas": [
+        {
+          "respuesta": "study, work",
+          "estado": false
+        },
+        {
+          "respuesta": "studies, works",
+          "estado": false
+        },
+        {
+          "respuesta": "has studied, worked",
+          "estado": false
+        },
+        {
+          "respuesta": "studied, worked",
+          "estado": true
+        }
+      ]
+    },
+    {
+      "pregunta": "David and I ____ at home at the moment.",
+      "valor": 50,
+      "respuestas": [
+        {
+          "respuesta": "am",
+          "estado": false
+        },
+        {
+          "respuesta": "is",
+          "estado": false
+        },
+        {
+          "respuesta": "isn't",
+          "estado": false
+        },
+        {
+          "respuesta": "aren't",
+          "estado": true
+        }
+      ]
+    },
+    {
+      "pregunta": "Today it ____ cold.",
+      "valor": 50,
+      "respuestas": [
+        {
+          "respuesta": "are",
+          "estado": false
+        },
+        {
+          "respuesta": "is",
+          "estado": true
+        },
+        {
+          "respuesta": "aren't",
+          "estado": false
+        },
+        {
+          "respuesta": "am",
+          "estado": false
+        }
+      ]
+    },
+    {
+      "pregunta": "____ do you prefer, living in the city or a small town?",
+      "valor": 50,
+      "respuestas": [
+        {
+          "respuesta": "What",
+          "estado": true
+        },
+        {
+          "respuesta": "Which",
+          "estado": false
+        },
+        {
+          "respuesta": "Where",
+          "estado": false
+        },
+        {
+          "respuesta": "How",
+          "estado": false
+        }
+      ]
+    }
+  ]
+}

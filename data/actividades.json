@@ -1,0 +1,493 @@
+[
+  {
+    "titulo": "Match the picture with the Word",
+    "nivel": "basico",
+    "tipo": "emparejar",
+    "preguntas": [
+      {
+        "pregunta": "Lawyer",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "abogado.jpg"
+          }
+        ]
+      },
+      {
+        "pregunta": "Driver",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "driver.jpeg"
+          }
+        ]
+      },
+      {
+        "pregunta": "Baker",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "baker.webp"
+          }
+        ]
+      },
+      {
+        "pregunta": "Nurse",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "nurse.png"
+          }
+        ]
+      },
+      {
+        "pregunta": "Singer",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "singer.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Complete the sentence according to the picture",
+    "nivel": "basico",
+    "tipo": "completar",
+    "preguntas": [
+      {
+        "pregunta": "She is a <input class='form-control-test'>",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "singer.png",
+            "respuesta": "singer"
+          }
+        ]
+      },
+      {
+        "pregunta": "He is a <input class='form-control-test'>",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "abogado.jpg",
+            "respuesta": "lawyer"
+          }
+        ]
+      },
+      {
+        "pregunta": "She is a <input class='form-control-test'>",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "nurse.png",
+            "respuesta": "nurse"
+          }
+        ]
+      },
+      {
+        "pregunta": "He is a <input class='form-control-test'>",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "baker.webp",
+            "respuesta": "baker"
+          }
+        ]
+      },
+      {
+        "pregunta": "He is a  <input class='form-control-test'>",
+        "valor": 10,
+        "respuestas": [
+          {
+            "imagen": "driver.jpeg",
+            "respuesta": "driver"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Order the following words to make a sentence",
+    "nivel": "basico",
+    "tipo": "ordenar",
+    "preguntas": [
+      {
+        "pregunta": "She is a singer",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "She",
+            "valor":0
+          },
+          {
+            "respuesta": "is",
+            "valor":1
+          },
+          {
+            "respuesta": "a",
+            "valor":2
+          },
+          {
+            "respuesta": "singer",
+            "valor":3
+          }
+        ]
+      },
+      {
+        "pregunta": "My father is a barker",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "My",
+            "valor":0
+          },
+          {
+            "respuesta": "father",
+            "valor":1
+          },
+          {
+            "respuesta": "is",
+            "valor":2
+          },
+          {
+            "respuesta": "a",
+            "valor":3
+          },
+          {
+            "respuesta": "barker",
+            "valor":4
+          }
+        ]
+      },
+      {
+        "pregunta": "My aunt is a nurse",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "My",
+            "valor":0
+          },
+          {
+            "respuesta": "aunt",
+            "valor":1
+          },
+          {
+            "respuesta": "is",
+            "valor":2
+          },
+          {
+            "respuesta": "a",
+            "valor":3
+          },
+          {
+            "respuesta": "nurse",
+            "valor":4
+          }
+        ]
+      },
+      {
+        "pregunta": "I am a driver",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "I",
+            "valor":0
+          },
+          {
+            "respuesta": "am",
+            "valor":1
+          },
+          {
+            "respuesta": "a",
+            "valor":2
+          },
+          {
+            "respuesta": "driver",
+            "valor":3
+          }
+        ]
+      },
+      {
+        "pregunta": "My brother is a lawyer",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "My",
+            "valor":0
+          },
+          {
+            "respuesta": "brother",
+            "valor":1
+          },
+          {
+            "respuesta": "is",
+            "valor":2
+          },
+          {
+            "respuesta": "a",
+            "valor":3
+          },          {
+            "respuesta": "lawyer",
+            "valor":2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Select the pairs ",
+    "nivel": "basico",
+    "tipo": "emparejar",
+    "preguntas": [
+      {
+        "pregunta": "Get dressed",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Vestirse"
+          }
+        ]
+      },
+      {
+        "pregunta": "Wake up",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Despertarse"
+          }
+        ]
+      },
+      {
+        "pregunta": "Take a shower",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Tomar una ducha"
+          }
+        ]
+      },
+      {
+        "pregunta": "Brush the teeth",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Cepillarse los dientes"
+          }
+        ]
+      },
+      {
+        "pregunta": "Have breakfast",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Desayunar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Choose  the verb to complete the sentence",
+    "nivel": "basico",
+    "tipo": "multiple",
+    "preguntas": [
+      {
+        "pregunta": "I usually ______________ at six o´clock in the morning",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Take a shower",
+            "estado": false
+          },
+          {
+            "respuesta": "Get dressed",
+            "estado": false
+          },
+          {
+            "respuesta": "Wake up",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "I sometimes _____________ with hot water",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Have breakfast",
+            "estado": false
+          },
+          {
+            "respuesta": "Take a shower",
+            "estado": true
+          },
+          {
+            "respuesta": "Get dressed",
+            "estado": false
+          }
+        ]
+      },
+      {
+        "pregunta": "I usually ___________ bread and coffee",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Brush the teeth",
+            "estado": false
+          },
+          {
+            "respuesta": "Wake up",
+            "estado": false
+          },
+          {
+            "respuesta": "Have breakfast",
+            "estado": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Order the following words to make a sentence",
+    "nivel": "medio",
+    "tipo": "ordenar",
+    "preguntas": [
+      {
+        "pregunta": "She has a big black dog",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "She",
+            "valor":0
+          },
+          {
+            "respuesta": "has",
+            "valor":1
+          },
+          {
+            "respuesta": "a",
+            "valor":2
+          },
+          {
+            "respuesta": "big",
+            "valor":3
+          },
+          {
+            "respuesta": "black",
+            "valor":4
+          },
+          {
+            "respuesta": "dog",
+            "valor":5
+          }
+        ]
+      },
+      {
+        "pregunta": "I go to the supermarket",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "I",
+            "valor":0
+          },
+          {
+            "respuesta": "go",
+            "valor":1
+          },
+          {
+            "respuesta": "to",
+            "valor":2
+          },
+          {
+            "respuesta": "the",
+            "valor":3
+          },
+          {
+            "respuesta": "supermarket",
+            "valor":4
+          }
+        ]
+      }, 
+      {
+        "pregunta": "We work in a factory",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "We",
+            "valor":0
+          },
+          {
+            "respuesta": "work",
+            "valor":1
+          },
+          {
+            "respuesta": "in",
+            "valor":2
+          },
+          {
+            "respuesta": "a",
+            "valor":3
+          },
+          {
+            "respuesta": "factory",
+            "valor":4
+          },
+          {
+            "respuesta": "dog",
+            "valor":5
+          }
+        ]
+      },
+      {
+        "pregunta": "My cousin visits the zoo",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "My",
+            "valor":0
+          },
+          {
+            "respuesta": "cousin",
+            "valor":1
+          },
+          {
+            "respuesta": "visits",
+            "valor":2
+          },
+          {
+            "respuesta": "the",
+            "valor":3
+          },
+          {
+            "respuesta": "zoo",
+            "valor":4
+          }
+        ]
+      },
+      {
+        "pregunta": "Jim does the homework",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "Jim",
+            "valor":0
+          },
+          {
+            "respuesta": "does",
+            "valor":1
+          },
+          {
+            "respuesta": "the",
+            "valor":2
+          },
+          {
+            "respuesta": "homework",
+            "valor":3
+          }
+        ]
+      } 
+    ]
+  }
+]
