@@ -489,5 +489,436 @@
         ]
       } 
     ]
+  },
+  {
+    "titulo": "Drag the preposition to complete the sentences according with the picture.",
+    "nivel": "medio",
+    "tipo": "emparejar",
+    "imagen":"lugar.png",
+    "preguntas": [
+      {
+        "pregunta": "The wardrobe is ___ the door and the window.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "between"
+          }
+        ]
+      },
+      {
+        "pregunta": "The box is ___ the wardrobe.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "next to"
+          }
+        ]
+      },
+      {
+        "pregunta": "The camera is ___ the box",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "in"
+          }
+        ]
+      },
+      {
+        "pregunta": "The table is ___ the window",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "in front of"
+          }
+        ]
+      },
+      {
+        "pregunta": "The TV is ___ the table.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "on"
+          }
+        ]
+      },
+      {
+        "pregunta": "The telephone is ___ the table",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "under"
+          }
+        ]
+      },
+      {
+        "pregunta": "The computer is ___ the chair.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "behind"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Choose  'a', 'an', 'the' or nothing to complete the sentences",
+    "nivel": "medio",
+    "tipo": "multiple",
+    "preguntas": [
+      {
+        "pregunta": "I usually ______________ at six o´clock in the morning",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "the",
+            "estado": false
+          },
+          {
+            "respuesta": "an",
+            "estado": false
+          },
+          {
+            "respuesta": "a",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "Here are _____ onions.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "a",
+            "estado": false
+          },
+          {
+            "respuesta": "the",
+            "estado": true
+          },
+          {
+            "respuesta": "an",
+            "estado": false
+          }
+        ]
+      },
+      {
+        "pregunta": "_____ oranges come from trees.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "the",
+            "estado": true
+          },
+          {
+            "respuesta": "a",
+            "estado": false
+          },
+          {
+            "respuesta": "an",
+            "estado": false
+          }
+        ]
+      },
+      {
+        "pregunta": "Bring me ________ bread.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "an",
+            "estado": false
+          },
+          {
+            "respuesta": "a",
+            "estado": false
+          },
+          {
+            "respuesta": "the",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "There is  _____ apple in the fridge.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "an",
+            "estado": true
+          },
+          {
+            "respuesta": "a",
+            "estado": false
+          },
+          {
+            "respuesta": "the",
+            "estado": false
+          }
+        ]
+      },
+      {
+        "pregunta": "_____ milk is white.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "the",
+            "estado": true
+          },
+          {
+            "respuesta": "a",
+            "estado": false
+          },
+          {
+            "respuesta": "an",
+            "estado": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Choose the correct option",
+    "nivel": "medio",
+    "tipo": "multiple",
+    "preguntas": [
+      {
+        "pregunta": "I ____________ my homework at the moment.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "do",
+            "estado": false
+          },
+          {
+            "respuesta": "'m doing",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "Every summer we _______________ our family.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "visit",
+            "estado": false
+          },
+          {
+            "respuesta": "are visiting",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "He _________________ early every day.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "gets up ",
+            "estado": true
+          },
+          {
+            "respuesta": "is getting up",
+            "estado": false
+          }
+        ]
+      },
+      {
+        "pregunta": "Ana can’t go out now, she __________________ on the phone.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "talks",
+            "estado": false
+          },
+          {
+            "respuesta": "'s talking",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "My cousin always _______________ to play with me.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "wants ",
+            "estado": true
+          },
+          {
+            "respuesta": "'s talking",
+            "estado": false
+          }
+        ]
+      },
+      {
+        "pregunta": "I ___________ my mother to clean the house only this week.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "help",
+            "estado": false
+          },
+          {
+            "respuesta": "'m helping",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "I'm very tired and I _______________ coffee now.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "drink",
+            "estado": false
+          },
+          {
+            "respuesta": "'m drinking",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "She always _______________ lunch at home.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "is having",
+            "estado": false
+          },
+          {
+            "respuesta": "has",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "Now I _____________ what you mean.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "'m knowing'",
+            "estado": false
+          },
+          {
+            "respuesta": "know",
+            "estado": true
+          }
+        ]
+      },
+      {
+        "pregunta": "My sister ________________ a secretary.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "is ",
+            "estado": true
+          },
+          {
+            "respuesta": "is being",
+            "estado": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Complete the following text with the correct form of the verbs in the box ",
+    "nivel": "medio",
+    "tipo": "completar",
+    "imagen": "corrects verbs.png",
+    "preguntas": [
+      {
+        "pregunta": "Jack <input class='form-control-test'> breakfast everyday at 8 am.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "has"
+          }
+        ]
+      },
+      {
+        "pregunta": "Today <input class='form-control-test'> breakfast at 7 am, because he has to go to the hotel.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "has"
+          }
+        ]
+      },
+      {
+        "pregunta": "He always <input class='form-control-test'> to his office. ",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "goes"
+          }
+        ]
+      },
+      {
+        "pregunta": "Today he <input class='form-control-test'> to the hotel. ",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "goes"
+          }
+        ]
+      },
+      {
+        "pregunta": "He <input class='form-control-test'> to his wife around 12 pm. ",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "talks"
+          }
+        ]
+      },
+      {
+        "pregunta": "Today, at 12pm he <input class='form-control-test'> to some gangsters.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "talks"
+          }
+        ]
+      },
+      {
+        "pregunta": "He <input class='form-control-test'> work at 6.30 p.m. ",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "finishes"
+          }
+        ]
+      },
+      {
+        "pregunta": "He <input class='form-control-test'> his dog for a walk today.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "doesn't take"
+          }
+        ]
+      },
+      {
+        "pregunta": "Today, he <input class='form-control-test'> as a waiter until 8 p.m. ",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "works"
+          }
+        ]
+      },
+      {
+        "pregunta": "After work, he always <input class='form-control-test'> his dog for a walk.",
+        "valor": 10,
+        "respuestas": [
+          {
+            "respuesta": "takes"
+          }
+        ]
+      }
+    ]
   }
 ]

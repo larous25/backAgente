@@ -22,6 +22,7 @@ const actividadesSchema = new mongoose.Schema({
         message: 'Opción {VALUE} no soportada como un tipo'
       }
     },
+    imagen:String,
     preguntas: [Pregunta]
 });
 
